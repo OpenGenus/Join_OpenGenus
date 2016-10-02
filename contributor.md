@@ -10,4 +10,4 @@
 9. [Anubhuti verma](https://github.com/anu-007) : CSE Undergrad at AKGEC Ghaziabad, Competetive Programmer and a MEAN stack Developer : @anu-007
 10. [Vishal Prakash](https://github.com/vish21) : Currently working in a software firm Media.net, looking to contribute in open-source.
 11. [Zahyr Seferina](https://github.com/Ryhazerus) : Studying software engineering while working on webdev, arduino and raspberry pi projects : @Ryhazerus
-12. [Jatin Rajani](https://github.com/jatinrajani) : CS Undergrad at USICT,Delhi,Machine Learner,Android Developer.
+12. [Narendra Dodwaria](https://github.com/narendra36) : Studying at [NIT Hamirpur](http://nith.ac.in/) in Dual Degree Computer Science and Engineering.

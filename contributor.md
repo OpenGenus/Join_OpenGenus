@@ -7,3 +7,4 @@
 6. [Chanchana Sornsoontorn](https://github.com/off99555) : CS Undergrad at Burapha University in Thailand, Machine Learning Practitioner, : @off99555
 7. [Peter V](https://github.com/magicp) : Just some developer scrub : @magicp
 8. [Bob Thomas](https://github.com/bob-thomas) : Working on a bachelor in applied computer science and all round tinkerer with flashy stuff : @endargon
+9. [Anubhuti verma](https://github.com/anu-007) : CSE Undergrad at AKGEC Ghaziabad, Competetive Programmer and a MEAN stack Developer : @anu-007

@@ -11,3 +11,4 @@
 10. [Vishal Prakash](https://github.com/vish21) : Currently working in a software firm Media.net, looking to contribute in open-source.
 11. [Zahyr Seferina](https://github.com/Ryhazerus) : Studying software engineering while working on webdev, arduino and raspberry pi projects : @Ryhazerus
 12. [Narendra Dodwaria](https://github.com/narendra36) : Studying at [NIT Hamirpur](http://nith.ac.in/) in Dual Degree Computer Science and Engineering.
+13. [Sukhbir Singh](https://github.com/sukhbir-singh) : Interested in App and web development, currently persuing B.Tech in computer science from NIT Hamirpura

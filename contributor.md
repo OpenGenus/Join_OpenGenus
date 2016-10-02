@@ -9,3 +9,4 @@
 8. [Bob Thomas](https://github.com/bob-thomas) : Working on a bachelor in applied computer science and all round tinkerer with flashy stuff : @endargon
 9. [Anubhuti verma](https://github.com/anu-007) : CSE Undergrad at AKGEC Ghaziabad, Competetive Programmer and a MEAN stack Developer : @anu-007
 10. [Vishal Prakash](https://github.com/vish21) : Currently working in a software firm Media.net, looking to contribute in open-source.
+11. [Zahyr Seferina](https://github.com/Ryhazerus) : Studying software engineering while working on webdev, arduino and raspberry pi projects : @Ryhazerus

@@ -5,3 +5,4 @@
 4. [Pranjal Jain](https://github.com/praran26) : CS Undergrad at IIT (BHU) Varanasi, Competitive Programmer : @praran26
 5. [Anurag El Dorado](https://github.com/aedorado) : Information Technology Undergrad at IIIT Allahabad, IoT Lover : @aedorado
 6. [Chanchana Sornsoontorn](https://github.com/off99555) : CS Undergrad at Burapha University in Thailand, Machine Learning Practitioner, : @off99555
+7. [Peter V](https://github.com/magicp) : Just some developer scrub : @magicp

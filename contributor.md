@@ -16,3 +16,4 @@
 14. [Kyle Carter](https://github.com/kylec32) : Working Software Engineer @kylecart
 15. [Yash Verma] (https://github.com/yashvermac) : CS Undergrad, IIIT Hyderabad
 16. [Atul Kumar] (https://github.com/atul-kumar02) : CSE Dual Degree Student from NIT Hamirpur, Interested in web development and graphic designing
+17. [Anwesh Nayak] (https://github.com/anweshknayak) : IT Undergrad at IIIT Allahabad , Tinkering experimenting around with stuffs : @anweshknayak

@@ -15,3 +15,4 @@
 13. [Sukhbir Singh](https://github.com/sukhbir-singh) : Interested in App and web development, currently persuing B.Tech in computer science from NIT Hamirpura
 14. [Kyle Carter](https://github.com/kylec32) : Working Software Engineer @kylecart
 15. [Yash Verma] (https://github.com/yashvermac) : CS Undergrad, IIIT Hyderabad
+16. [Atul Kumar] (https://github.com/atul-kumar02) : CSE Dual Degree Student from NIT Hamirpur, Interested in web development and graphic designing

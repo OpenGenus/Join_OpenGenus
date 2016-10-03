@@ -17,3 +17,4 @@
 15. [Yash Verma] (https://github.com/yashvermac) : CS Undergrad, IIIT Hyderabad
 16. [Atul Kumar] (https://github.com/atul-kumar02) : CSE Dual Degree Student from NIT Hamirpur, Interested in web development and graphic designing
 17. [Anwesh Nayak] (https://github.com/anweshknayak) : IT Undergrad at IIIT Allahabad , Tinkering experimenting around with stuffs : @anweshknayak
+18. [Salman Shah] (https://github.com/salman-bhai) : IT Second year, Undergrad at NITK Surathkal, Software Developer and Machine Learning Enthusiast. 

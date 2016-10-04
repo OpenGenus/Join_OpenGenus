@@ -20,3 +20,5 @@
 18. [Salman Shah] (https://github.com/salman-bhai) : IT Second year, Undergrad at NITK Surathkal, Software Developer and Machine Learning Enthusiast. 
 19. [Mayank Tyagi](https://github.com/maayanktyagi) : CS Undergrad at USICT Delhi,Datageek and Machine Learning Enthusiast : @maayanktyagi
 20. [Sourabh Suman](https://github.com/sourabh1024) : Software Developer and looking to contribute to some open source.
+21. [Lakshya Agrawal](https://github.com/Lakshya1605) :ECE Undergrad,IIIT Hyderabad.
+

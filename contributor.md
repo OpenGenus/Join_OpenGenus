@@ -22,3 +22,4 @@
 20. [Sourabh Suman](https://github.com/sourabh1024) : Software Developer and looking to contribute to some open source.
 21. [Jatin Rajani](https://github.com/jatinrajani):   CS Undergrad at USICT Delhi,Machine Learner and Android Dev. @jatinrajani
 22. [Lakshya Agrawal](https://github.com/Lakshya1605): ECE Undergrad ,IIIT Hyderbad
+23. [Akshdeep Rajawat](https://github.com/akshdeep996): CSE Undergrad , NMIT Bangalore , interested in web development and python web crawler : @akshdeep996

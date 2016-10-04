@@ -19,4 +19,4 @@
 17. [Anwesh Nayak] (https://github.com/anweshknayak) : IT Undergrad at IIIT Allahabad , Tinkering experimenting around with stuffs : @anweshknayak
 18. [Salman Shah] (https://github.com/salman-bhai) : IT Second year, Undergrad at NITK Surathkal, Software Developer and Machine Learning Enthusiast. 
 19. [Mayank Tyagi](https://github.com/maayanktyagi) : CS Undergrad at USICT Delhi,Datageek and Machine Learning Enthusiast : @maayanktyagi
-24. [Sourabh Suman](https://github.com/sourabh1024) : Software Developer and looking to contribute to some open source.
+20. [Sourabh Suman](https://github.com/sourabh1024) : Software Developer and looking to contribute to some open source.

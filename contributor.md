@@ -23,3 +23,4 @@
 21. [Jatin Rajani](https://github.com/jatinrajani):   CS Undergrad at USICT Delhi,Machine Learner and Android Dev. @jatinrajani
 22. [Lakshya Agrawal](https://github.com/Lakshya1605): ECE Undergrad ,IIIT Hyderbad
 23. [Akshdeep Rajawat](https://github.com/akshdeep996): CSE Undergrad , NMIT Bangalore , interested in web development and python web crawler : @akshdeep996
+24. [Yash Vardhan](https://github.com/yvsja): High School student interested in game development in Unity3d: @yvsja

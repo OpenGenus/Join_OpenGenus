@@ -24,3 +24,4 @@
 22. [Lakshya Agrawal](https://github.com/Lakshya1605): ECE Undergrad ,IIIT Hyderbad
 23. [Akshdeep Rajawat](https://github.com/akshdeep996): CSE Undergrad , NMIT Bangalore , interested in web development and python web crawler : @akshdeep996
 24. [Yash Vardhan](https://github.com/yvsja): High School student interested in game development in Unity3d: @yvsja
+25. [Khushboo Gupta](https://github.com/05Khushboo): CSE 3rd Year, Shri Mata Vaishno Devi University, Competitive Programmer: @05Khushboo

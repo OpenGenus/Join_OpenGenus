@@ -25,4 +25,5 @@
 23. [Akshdeep Rajawat](https://github.com/akshdeep996): CSE Undergrad , NMIT Bangalore , interested in web development and python web crawler : @akshdeep996
 24. [Yash Vardhan](https://github.com/yvsja): High School student interested in game development in Unity3d: @yvsja
 25. [Khushboo Gupta](https://github.com/05Khushboo): CSE 3rd Year, Shri Mata Vaishno Devi University, Competitive Programmer: @05Khushboo
-26.[Kasarla shirisha](https://github.com/shiri04):CSE 3rd year,Shri mata vaishno devi university,interested in web development
+26. [Kasarla shirisha](https://github.com/shiri04):CSE 3rd year,Shri mata vaishno devi university,interested in web development
+27. [Vishakha Tyagi](https://github.com/Vishakha96): CSE 3rd Year, Shri Mata Vaishno Devi University : @Vishakha96

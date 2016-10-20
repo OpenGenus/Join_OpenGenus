@@ -27,3 +27,4 @@
 25. [Khushboo Gupta](https://github.com/05Khushboo): CSE 3rd Year, Shri Mata Vaishno Devi University, Competitive Programmer: @05Khushboo
 26. [Kasarla shirisha](https://github.com/shiri04):CSE 3rd year,Shri mata vaishno devi university,interested in web development
 27. [Vishakha Tyagi](https://github.com/Vishakha96): CSE 3rd Year, Shri Mata Vaishno Devi University : @Vishakha96
+28. [Mohit Kumar Bajoria](https://github.com/mbj36): GSoC'16, Web stuffs. 

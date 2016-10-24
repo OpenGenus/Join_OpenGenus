@@ -29,3 +29,4 @@
 27. [Vishakha Tyagi](https://github.com/Vishakha96): CSE 3rd Year, Shri Mata Vaishno Devi University : @Vishakha96
 28. [Vaibhav Bansal](https://github.com/vaibhavbansal23): Full Stack Developer , CSE 4th Year, Jaypee Institute Of Infomation Technology : @vaibhavbansal23
 29. [Vijay Krishnavanshi](https://github.com/vijaykrishnabvanshi): CSE 3rd Year, Shri Mata Vaishno Devi University : @VKrishnavanshi 
+30. [Hemang Kumar](https://github.com/hemangsk): CSE Undergrad @ USICT Delhi, :rocket: all things Automata Theory, Android, node.js and Python : @hemangsk 

@@ -31,3 +31,4 @@
 29. [Vijay Krishnavanshi](https://github.com/vijaykrishnabvanshi): CSE 3rd Year, Shri Mata Vaishno Devi University : @VKrishnavanshi 
 30. [Alur Yennemadi](https://github.com/alumyen): CSE Undergrad, IIT Kharagpur : @alumyen
 31. [Wit E Kname](https://github.com/Wit-E-Kname): CSE 3rd Year, IIT Kharagpur : @Wit-E-Kname
+32. [Arvind Jha] (https://github.com/king-AJ/) : CSE 4th Year, SMVDU 

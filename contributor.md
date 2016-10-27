@@ -32,3 +32,4 @@
 30. [Alur Yennemadi](https://github.com/alumyen): CSE Undergrad, IIT Kharagpur : @alumyen
 31. [Wit E Kname](https://github.com/Wit-E-Kname): CSE 3rd Year, IIT Kharagpur : @Wit-E-Kname
 32. [Nidhi Nigam](https://github.com/nidhi-nigam): 3rd year undergraduate student, Machine Learning enthusiast : @nidhi-nigam
+33. [Vaibhav Trivedi](https://github.com/marvel308): Full Stack Developer, Working as SDE : @marvel308

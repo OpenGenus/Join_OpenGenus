@@ -14,10 +14,10 @@
 12. [Narendra Dodwaria](https://github.com/narendra36) : Studying at [NIT Hamirpur](http://nith.ac.in/) in Dual Degree Computer Science and Engineering.
 13. [Sukhbir Singh](https://github.com/sukhbir-singh) : Interested in App and web development, currently persuing B.Tech in computer science from NIT Hamirpura
 14. [Kyle Carter](https://github.com/kylec32) : Working Software Engineer @kylecart
-15. [Yash Verma] (https://github.com/yashvermac) : CS Undergrad, IIIT Hyderabad
-16. [Atul Kumar] (https://github.com/atul-kumar02) : CSE Dual Degree Student from NIT Hamirpur, Interested in web development and graphic designing
-17. [Anwesh Nayak] (https://github.com/anweshknayak) : IT Undergrad at IIIT Allahabad , Tinkering experimenting around with stuffs : @anweshknayak
-18. [Salman Shah] (https://github.com/salman-bhai) : IT Second year, Undergrad at NITK Surathkal, Software Developer and Machine Learning Enthusiast. 
+15. [Yash Verma](https://github.com/yashvermac) : CS Undergrad, IIIT Hyderabad
+16. [Atul Kumar](https://github.com/atul-kumar02) : CSE Dual Degree Student from NIT Hamirpur, Interested in web development and graphic designing
+17. [Anwesh Nayak](https://github.com/anweshknayak) : IT Undergrad at IIIT Allahabad , Tinkering experimenting around with stuffs : @anweshknayak
+18. [Salman Shah](https://github.com/salman-bhai) : IT Second year, Undergrad at NITK Surathkal, Software Developer and Machine Learning Enthusiast. 
 19. [Mayank Tyagi](https://github.com/maayanktyagi) : CS Undergrad at USICT Delhi,Datageek and Machine Learning Enthusiast : @maayanktyagi
 20. [Sourabh Suman](https://github.com/sourabh1024) : Software Developer and looking to contribute to some open source.
 21. [Jatin Rajani](https://github.com/jatinrajani):   CS Undergrad at USICT Delhi,Machine Learner and Android Dev. @jatinrajani
@@ -36,3 +36,4 @@
 34. [Poonam Mishra](https://github.com/mish24): 2nd year undergrad, BITS Pilani, Backend girl and a competitive programmer. @mish24
 35. [Vaibhav Singh](https://github.com/vaibhavsingh97): CSC Undergrad, BML Munjal University, Front-end developer, Open-source enthusiast : @vaibhavsingh97
 36. [Kumar Shashwat](https://github.com/octacode): Android developer | Web developer | Google summer of code student @amahi | NIT Hamirpur : @octacode
+37. [Aditya Arora](https://github.com/adi23arora): Sophomore year, CSE NIT Hamirpur, Android Developer, Open Source Enthusiast : @adi23arora

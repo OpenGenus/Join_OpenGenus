@@ -35,3 +35,4 @@
 33. [Nilesh Prasad](https://github.com/nileshprasad137): Full Stack Developer,Competitive Programmer, CSE 2nd Year, Vishwakarma Institute of Technology , Pune : @nileshprasad137
 34. [Poonam Mishra](https://github.com/mish24): 2nd year undergrad, BITS Pilani, Backend girl and a competitive programmer. @mish24
 35. [Vaibhav Singh](https://github.com/vaibhavsingh97): CSC Undergrad, BML Munjal University, Front-end developer, Open-source enthusiast : @vaibhavsingh97
+36. [Kumar Shashwat](https://github.com/octacode): Android developer | Web developer | Google summer of code student @amahi | NIT Hamirpur : @octacode

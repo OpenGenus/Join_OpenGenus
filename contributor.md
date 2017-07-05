@@ -37,3 +37,4 @@
 35. [Vaibhav Singh](https://github.com/vaibhavsingh97): CSC Undergrad, BML Munjal University, Front-end developer, Open-source enthusiast : @vaibhavsingh97
 36. [Kumar Shashwat](https://github.com/octacode): Android developer | Web developer | Google summer of code student @amahi | NIT Hamirpur : @octacode
 37. [Aditya Arora](https://github.com/adi23arora): Sophomore year, CSE NIT Hamirpur, Android Developer, Open Source Enthusiast : @adi23arora
+38. [Vaibhav Trivedi](https://github.com/marvel308): Full Stack Developer, Working as SDE : @marvel308

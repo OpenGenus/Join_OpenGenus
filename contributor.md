@@ -39,3 +39,4 @@
 37. [Aditya Arora](https://github.com/adi23arora): Sophomore year, CSE NIT Hamirpur, Android Developer, Open Source Enthusiast : @adi23arora
 38. [Vaibhav Trivedi](https://github.com/marvel308): Full Stack Developer, Working as SDE : @marvel308
 39. [Hemang Kumar](https://github.com/hemangsk): CSE Undergrad @ USICT Delhi, :rocket: all things Automata Theory, Android, node.js and Python : @hemangsk 
+40. [Sarthak Goel](https://github.com/iamsarthak): CSE 3rd Year, USICT, Developer : @iamsarthak

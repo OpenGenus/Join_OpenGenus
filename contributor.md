@@ -41,3 +41,4 @@
 39. [Hemang Kumar](https://github.com/hemangsk): CSE Undergrad @ USICT Delhi, :rocket: all things Automata Theory, Android, node.js and Python : @hemangsk 
 40. [Sarthak Goel](https://github.com/iamsarthak): CSE 3rd Year, USICT, Developer : @iamsarthak
 41. [Mohit Kumar Bajoria](https://github.com/mbj36): GSoC'16, Web stuffs.
+42. [Pablo R. Deving](https://github.com/PRDeving) : Tech enthusiast, games and I+D+I lover, from Assembly to JS, code is my live

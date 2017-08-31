@@ -45,3 +45,4 @@
 43. [Eikansh Gupta](https://github.com/Eikansh) : CS Undergrad, Interested in web development
 44. [Mayank Tyagi](https://github.com/maayanktyagi) : CS Undergrad at USICT Delhi,Datageek and Machine Learning Enthusiast : @maayanktyagi
 45. [Rushal Verma](https://github.com/rusrushal13) : CS Undergrad at Shri Mata Vaishno Devi University, Jammu, AI Learner : @rusrushal3
+46. [Mukund Agarwal](https://github.com/mukund26) : CS Undergrad at NIT HAMIRPUR | Junior | C++ | Python : @mukund26

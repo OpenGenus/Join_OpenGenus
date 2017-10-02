@@ -47,3 +47,4 @@
 45. [Rushal Verma](https://github.com/rusrushal13) : CS Undergrad at Shri Mata Vaishno Devi University, Jammu, AI Learner : @rusrushal3
 46. [Mukund Agarwal](https://github.com/mukund26) : CS Undergrad at NIT HAMIRPUR | Junior | C++ | Python : @mukund26
 47. [DoubleU23](https://github.com/DoubleU23) : FE-Developer with Visions (React/Webpack, NodeJS, VanillaJS, ...)
+48. [Abhishek Jaisingh](https://github.com/abhishekjiitr) : CSE 4th Year, IIT Roorkee, Developer, Competitive Programmer (Python, C++) : @abhishekjiitr

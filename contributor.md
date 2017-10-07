@@ -51,3 +51,4 @@
 49. [Ashish Gautam](https://github.com/gautam2705): IT undergrad @BVCOE Delhi, books, python, C++, competitve programmer : @gautam2705
 50. [Rishabh Chaudhary](http://github.com/Rishabh04-02/): CS Undergrad, NIT Hamirpur | Full Stack Developer | Competitive Programming | Computer Networking | Cyber security | PHP | JS :@Rishabh04-02
 51. [Chris Sullivan](https://github.com/codemastermd): CS Undergrad at the University of Maryland | Machine Learning and Artificial Intelligence : @codemastermd
+52. [Vaibhav Kumar](https://github.com/Vaibhav1671998): CS Undergrad at Chitkara University , Rajpura , Punjab , India | Front End Web Developer and A Machine Learning enthusiastic : @Vaibhav1671998 

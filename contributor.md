@@ -17,7 +17,7 @@
 15. [Yash Verma](https://github.com/yashvermac) : CS Undergrad, IIIT Hyderabad
 16. [Atul Kumar](https://github.com/atul-kumar02) : CSE Dual Degree Student from NIT Hamirpur, Interested in web development and graphic designing
 17. [Anwesh Nayak](https://github.com/anweshknayak) : IT Undergrad at IIIT Allahabad , Tinkering experimenting around with stuffs : @anweshknayak
-18. [Salman Shah](https://github.com/salman-bhai) : IT Second year, Undergrad at NITK Surathkal, Software Developer and Machine Learning Enthusiast. 
+18. [Salman Shah](https://github.com/salman-bhai) : IT Second year, Undergrad at NITK Surathkal, Software Developer and Machine Learning Enthusiast.
 19. [Mayank Tyagi](https://github.com/maayanktyagi) : CS Undergrad at USICT Delhi,Datageek and Machine Learning Enthusiast : @maayanktyagi
 20. [Sourabh Suman](https://github.com/sourabh1024) : Software Developer and looking to contribute to some open source.
 21. [Jatin Rajani](https://github.com/jatinrajani):   CS Undergrad at USICT Delhi,Machine Learner and Android Dev. @jatinrajani
@@ -28,7 +28,7 @@
 26. [Kasarla shirisha](https://github.com/shiri04):CSE 3rd year,Shri mata vaishno devi university,interested in web development
 27. [Vishakha Tyagi](https://github.com/Vishakha96): CSE 3rd Year, Shri Mata Vaishno Devi University : @Vishakha96
 28. [Vaibhav Bansal](https://github.com/vaibhavbansal23): Full Stack Developer , CSE 4th Year, Jaypee Institute Of Infomation Technology : @vaibhavbansal23
-29. [Vijay Krishnavanshi](https://github.com/vijaykrishnabvanshi): CSE 3rd Year, Shri Mata Vaishno Devi University : @VKrishnavanshi 
+29. [Vijay Krishnavanshi](https://github.com/vijaykrishnabvanshi): CSE 3rd Year, Shri Mata Vaishno Devi University : @VKrishnavanshi
 30. [Alur Yennemadi](https://github.com/alumyen): CSE Undergrad, IIT Kharagpur : @alumyen
 31. [Wit E Kname](https://github.com/Wit-E-Kname): CSE 3rd Year, IIT Kharagpur : @Wit-E-Kname
 32. [Nidhi Nigam](https://github.com/nidhi-nigam): 3rd year undergraduate student, Machine Learning enthusiast : @nidhi-nigam
@@ -38,7 +38,7 @@
 36. [Kumar Shashwat](https://github.com/octacode): Android developer | Web developer | Google summer of code student @amahi | NIT Hamirpur : @octacode
 37. [Aditya Arora](https://github.com/adi23arora): Sophomore year, CSE NIT Hamirpur, Android Developer, Open Source Enthusiast : @adi23arora
 38. [Vaibhav Trivedi](https://github.com/marvel308): Full Stack Developer, Working as SDE : @marvel308
-39. [Hemang Kumar](https://github.com/hemangsk): CSE Undergrad @ USICT Delhi, :rocket: all things Automata Theory, Android, node.js and Python : @hemangsk 
+39. [Hemang Kumar](https://github.com/hemangsk): CSE Undergrad @ USICT Delhi, :rocket: all things Automata Theory, Android, node.js and Python : @hemangsk
 40. [Sarthak Goel](https://github.com/iamsarthak): CSE 3rd Year, USICT, Developer : @iamsarthak
 41. [Mohit Kumar Bajoria](https://github.com/mbj36): GSoC'16, Web stuffs.
 42. [Pablo R. Deving](https://github.com/PRDeving) : Tech enthusiast, games and I+D+I lover, from Assembly to JS, code is my live
@@ -49,3 +49,4 @@
 47. [DoubleU23](https://github.com/DoubleU23) : FE-Developer with Visions (React/Webpack, NodeJS, VanillaJS, ...)
 48. [Abhishek Jaisingh](https://github.com/abhishekjiitr) : CSE 4th Year, IIT Roorkee, Developer, Competitive Programmer (Python, C++) : @abhishekjiitr
 49. [Ashish Gautam](https://github.com/gautam2705): IT undergrad @BVCOE Delhi, books, python, C++, competitve programmer : @gautam2705
+50. [Chris Sullivan](https://github.com/codemastermd): CS Undergrad at the University of Maryland | Machine Learning and Artificial Intelligence : @codemastermd

@@ -4,7 +4,7 @@
 
 Our sole mission is to help you recognize your potential :muscle:  and purpose :musical_note:. We believe that everyone has a gift in himself or herself but are not able to see it. We will help you in every possible way. Just ask us! :heart_eyes: 
 
-Let us know that you would like to join our family and we will add you instantly. One possible way is to tell us through an issue [here]() and adding yourself to the contributor list. You may, also, email us or get in touch at Slack. The list is endless. :rocket: 
+Let us know that you would like to join our family and we will add you instantly. One possible way is to tell us through an issue [here](https://github.com/OpenGenus/Join_OpenGenus/issues) and adding yourself to the contributor list. You may, also, email us or get in touch at Slack. The list is endless. :rocket: 
 
 # Guidelines
 
@@ -15,5 +15,3 @@ We are working on a lot of stuff and we will help you to find an appropriate pla
 ## We are looking forward towards enjoying with you. :wine_glass: :cake: :dancer: 
 
 > We can do it and we will do it. 
-
-

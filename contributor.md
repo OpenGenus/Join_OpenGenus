@@ -54,4 +54,4 @@
 52. [Vaibhav Kumar](https://github.com/Vaibhav1671998): CS Undergrad at Chitkara University , Rajpura , Punjab , India | Front End Web Developer and A Machine Learning enthusiastic : @Vaibhav1671998 
 53. [Ravi Jain](https://github.com/engrravijain): Chitkara University, India | <-- Web-Developer -- ML and AI -- Python -- Automate --> : @engrravijain
 54. [Arnav Borborah](https://github.com/arnavb): Just a student programmer who loves C++! : @arnavb
-55. [Guilherme Lucas](https://github.com/Guilhermeslucas): Developer and Computer Engineering student from Brazil. Interested in Cloud, AI and HPC.
+55. [Guilherme Lucas](https://github.com/Guilhermeslucas): Developer and Computer Engineering student from Brazil | Interested in Cloud, AI and HPC : @guilhermeslcs

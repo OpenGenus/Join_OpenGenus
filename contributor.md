@@ -56,3 +56,4 @@
 54. [Arnav Borborah](https://github.com/arnavb): Just a student programmer who loves C++! : @arnavb
 55. [Rohit Gupta](https://github.com/guptarohit): Working Software Engineer, a Pythonista! 🐍 : @guptarohit
 56. [Austin Grant](https://github.com/cooler9711): A student who likes taking over domains : @cooler9711
+57. [Guilherme Lucas](https://github.com/Guilhermeslucas): Developer and Computer Engineering student from Brazil | Interested in Cloud, AI and HPC : @guilhermeslcs

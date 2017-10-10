@@ -57,4 +57,5 @@
 55. [Rohit Gupta](https://github.com/guptarohit): Working Software Engineer, a Pythonista! 🐍 : @guptarohit
 56. [Austin Grant](https://github.com/cooler9711): A student who likes taking over domains : @cooler9711
 57. [Guilherme Lucas](https://github.com/Guilhermeslucas): Developer and Computer Engineering student from Brazil | Interested in Cloud, AI and HPC : @guilhermeslcs
-58. [Joan Albert](https://github.com/jalbertsr): CS Undergrad at UAB, Full Stack Developer | Web Dev Bootcamp Intructor at @Skylabcoders  
+58. [Kapil Lamba](https://github.com/kapillamba4): Developer, Competitive programmer, Open-source enthusiast and Computer Science Undergrad from USICT Delhi (University School of Information and Technology) @kapillamba4
+59. [Joan Albert](https://github.com/jalbertsr): CS Undergrad at UAB, Full Stack Developer | Web Dev Bootcamp Intructor at @Skylabcoders  

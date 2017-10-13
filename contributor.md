@@ -60,3 +60,4 @@
 58. [Kapil Lamba](https://github.com/kapillamba4): Developer, Competitive programmer, Open-source enthusiast and Computer Science Undergrad from USICT Delhi (University School of Information and Technology) @kapillamba4
 59. [Joan Albert](https://github.com/jalbertsr): CS Undergrad at UAB, Full Stack Developer | Web Dev Bootcamp Intructor at @Skylabcoders  
 60. [Taylan Dogan](https://github.com/kondanta): CS Student | Interested in low level stuff : @kondanta
+61. [Gourav Suri](https://github.com/thegenuinegourav): Android Developer | Web Developer | Youtuber | [gouravsuri.co](https://gouravsuri.co)

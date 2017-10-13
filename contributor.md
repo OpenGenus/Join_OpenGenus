@@ -61,3 +61,4 @@
 59. [Joan Albert](https://github.com/jalbertsr): CS Undergrad at UAB, Full Stack Developer | Web Dev Bootcamp Intructor at @Skylabcoders  
 60. [Taylan Dogan](https://github.com/kondanta): CS Student | Interested in low level stuff : @kondanta
 61. [Gourav Suri](https://github.com/thegenuinegourav): Android Developer | Web Developer | Youtuber | [gouravsuri.co](https://gouravsuri.co)
+62. [Yatharth Shah](https://github.com/yatharthshahjpr):CS Student | Web developer , CCNA Certified , Linux administrator , ready for new stuff : @yatharthshahjpr

@@ -64,4 +64,6 @@
 62. [Yatharth Shah](https://github.com/yatharthshahjpr):CS Student | Web developer , CCNA Certified , Linux administrator , ready for new stuff : @yatharthshahjpr
 63. [Amaya Lim](https://github.com/nightrainlily): Student | Web Developer
 64. [Raj Pathare](https://github.com/RajPathare): IT Student | Web Developer , Gamer and an Open-source enthusiast .
-65. [Premprakash Singh](https://github.com/PREMPRAKASHSINGH): CSE Student | Software Developer | [premsingh.me](http://premsingh.me) : @prem .
+65. [DaiPei](https://github.com/daipeihust): iOS📱 and macOS💻 Developer | Student at Huazhong University of Science&Technology : @daipeihust
+66. [Andres Langberg](https://github.com/alangberg): CS Student at University of Buenos Aires | Software Engineer 🐔
+67. [Premprakash Singh](https://github.com/PREMPRAKASHSINGH): CSE Student | Software Developer | [premsingh.me](http://premsingh.me) : @prem .

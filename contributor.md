@@ -68,4 +68,4 @@
 66. [Andres Langberg](https://github.com/alangberg): CS Student at University of Buenos Aires | Software Engineer 🐔
 67. [Premprakash Singh](https://github.com/PREMPRAKASHSINGH): CSE Student | Software Developer | [premsingh.me](http://premsingh.me) : @prem .
 68. [Diksha Agarwal](https://github.com/Dikshaag98): Android Developer | Java coder | Open-source enthusiast | Student @ LNMIIT
-69. [Tiago Severino](https://github.com/TiagoSeverino): WEb Developer | Competitive programmer | Open-source enthusiast | Robotics enthusiast | Student @ High School
+69. [Tiago Severino](https://github.com/TiagoSeverino): Web Developer | Competitive programmer | Open-source enthusiast | Robotics enthusiast | Student @ High School

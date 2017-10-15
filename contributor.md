@@ -51,7 +51,7 @@
 49. [Ashish Gautam](https://github.com/gautam2705): IT undergrad @BVCOE Delhi, books, python, C++, competitve programmer : @gautam2705
 50. [Rishabh Chaudhary](http://github.com/Rishabh04-02/): CS Undergrad, NIT Hamirpur | Full Stack Developer | Competitive Programming | Computer Networking | Cyber security | PHP | JS :@Rishabh04-02
 51. [Chris Sullivan](https://github.com/codemastermd): CS Undergrad at the University of Maryland | Machine Learning and Artificial Intelligence : @codemastermd
-52. [Vaibhav Kumar](https://github.com/Vaibhav1671998): CS Undergrad at Chitkara University , Rajpura , Punjab , India | Front End Web Developer and A Machine Learning enthusiastic : @Vaibhav1671998 
+52. [Vaibhav Kumar](https://github.com/Vaibhav1671998): CS Undergrad at Chitkara University , Rajpura , Punjab , India | Front End Web Developer and A Machine Learning enthusiastic : @Vaibhav1671998
 53. [Ravi Jain](https://github.com/engrravijain): Chitkara University, India | <-- Web-Developer -- ML and AI -- Python -- Automate --> : @engrravijain
 54. [Arnav Borborah](https://github.com/arnavb): Just a student programmer who loves C++! : @arnavb
 55. [Rohit Gupta](https://github.com/guptarohit): Working Software Engineer, a Pythonista! 🐍 : @guptarohit
@@ -66,3 +66,4 @@
 64. [Raj Pathare](https://github.com/RajPathare): IT Student | Web Developer , Gamer and an Open-source enthusiast .
 65. [DaiPei](https://github.com/daipeihust): iOS📱 and macOS💻 Developer | Student at Huazhong University of Science&Technology : @daipeihust
 66. [Andres Langberg](https://github.com/alangberg): CS Student at University of Buenos Aires | Software Engineer 🐔
+67. [Premprakash Singh](https://github.com/PREMPRAKASHSINGH): CSE Student | Software Developer | [premsingh.me](http://premsingh.me) : @prem .

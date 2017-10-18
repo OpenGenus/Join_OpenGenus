@@ -70,3 +70,4 @@
 68. [Diksha Agarwal](https://github.com/Dikshaag98): Android Developer | Java coder | Open-source enthusiast | Student @ LNMIIT
 69. [Juo-Hsin Chang](https://github.com/magicansk): Student |  Open-source lover  | happy to join OpenGenus
 70. [Prasanna Natarjan](https://github.com/PrasannaNatarajan): CS Student|Android Developer|machine learning enthusiast| @ Shiv Nadar University
+71. [Ritwik Sharma](https://github.com/ritwik12) : CSE Undergrad, Web Development|A.I.|Open Source enthusiast.

@@ -74,3 +74,4 @@
 72. [Tiago Severino](https://github.com/TiagoSeverino): Web Developer | Competitive programmer | Open-source enthusiast | Robotics enthusiast | Student @ High School
 73. [Jill Cates](https://github.com/topspinj): Web Developer | Hackathon enthusiast | Data science student | Vancouver, Canada
 74. [Anurag Tiwari](https://github.com/t2013anurag): Web Developer | Hacker at HackerRank | Machine Learning | Full Stack Developer
+75. [Michele Riva](http://miiit.ch): Software Engineer @MicheleRiva95

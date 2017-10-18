@@ -69,3 +69,4 @@
 67. [Premprakash Singh](https://github.com/PREMPRAKASHSINGH): CSE Student | Software Developer | [premsingh.me](http://premsingh.me) : @prem .
 68. [Diksha Agarwal](https://github.com/Dikshaag98): Android Developer | Java coder | Open-source enthusiast | Student @ LNMIIT
 69. [Juo-Hsin Chang](https://github.com/magicansk): Student |  Open-source lover  | happy to join OpenGenus
+70. [Prasanna Natarjan](https://github.com/PrasannaNatarajan): CS Student|Android Developer|machine learning enthusiast| @ Shiv Nadar University

@@ -73,3 +73,4 @@
 71. [Ritwik Sharma](https://github.com/ritwik12) : CSE Undergrad, Web Development|A.I.|Open Source enthusiast.
 72. [Tiago Severino](https://github.com/TiagoSeverino): Web Developer | Competitive programmer | Open-source enthusiast | Robotics enthusiast | Student @ High School
 73. [Jill Cates](https://github.com/topspinj): Web Developer | Hackathon enthusiast | Data science student | Vancouver, Canada
+74. [Anurag Tiwari](https://github.com/t2013anurag): Web Developer | Hacker at HackerRank | Machine Learning | Full Stack Developer

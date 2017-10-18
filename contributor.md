@@ -74,4 +74,6 @@
 72. [Tiago Severino](https://github.com/TiagoSeverino): Web Developer | Competitive programmer | Open-source enthusiast | Robotics enthusiast | Student @ High School
 73. [Jill Cates](https://github.com/topspinj): Web Developer | Hackathon enthusiast | Data science student | Vancouver, Canada
 74. [Anurag Tiwari](https://github.com/t2013anurag): Web Developer | Hacker at HackerRank | Machine Learning | Full Stack Developer
-75. [Zoran Pandovski](https://github.com/ZoranPandovski): Full Stack Developer | Open Source enthusiast :octocat:
+75. [Wilson Wen](https://github.com/wilsonwen): Developer | Infrastructure Software Engineer | Big Data | Shenzhen, China
+76. [Michele Riva](http://miiit.ch): Software Engineer @MicheleRiva95
+77. [Zoran Pandovski](https://github.com/ZoranPandovski): Full Stack Developer | Open Source enthusiast :octocat:

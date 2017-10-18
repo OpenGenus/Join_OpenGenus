@@ -72,4 +72,4 @@
 70. [Prasanna Natarjan](https://github.com/PrasannaNatarajan): CS Student|Android Developer|machine learning enthusiast| @ Shiv Nadar University
 71. [Ritwik Sharma](https://github.com/ritwik12) : CSE Undergrad, Web Development|A.I.|Open Source enthusiast.
 72. [Tiago Severino](https://github.com/TiagoSeverino): Web Developer | Competitive programmer | Open-source enthusiast | Robotics enthusiast | Student @ High School
-72. [Jill Cates](https://github.com/topspinj): Web Developer | Hackathon enthusiast | Data science student | Vancouver, Canada
+73. [Jill Cates](https://github.com/topspinj): Web Developer | Hackathon enthusiast | Data science student | Vancouver, Canada

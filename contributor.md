@@ -71,3 +71,4 @@
 69. [Juo-Hsin Chang](https://github.com/magicansk): Student |  Open-source lover  | happy to join OpenGenus
 70. [Prasanna Natarjan](https://github.com/PrasannaNatarajan): CS Student|Android Developer|machine learning enthusiast| @ Shiv Nadar University
 71. [Ritwik Sharma](https://github.com/ritwik12) : CSE Undergrad, Web Development|A.I.|Open Source enthusiast.
+72. [Tiago Severino](https://github.com/TiagoSeverino): Web Developer | Competitive programmer | Open-source enthusiast | Robotics enthusiast | Student @ High School

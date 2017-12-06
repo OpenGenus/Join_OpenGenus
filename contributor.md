@@ -76,4 +76,4 @@
 74. [Anurag Tiwari](https://github.com/t2013anurag): Web Developer | Hacker at HackerRank | Machine Learning | Full Stack Developer
 75. [Wilson Wen](https://github.com/wilsonwen): Developer | Infrastructure Software Engineer | Big Data | Shenzhen, China
 76. [Michele Riva](http://miiit.ch): Software Engineer @MicheleRiva95
-77. [Sambhav Jain](https://github.com/sambhav2612): Open-Source Enthuiast, Full-time C++ Advocate, Web Localizer for Mozilla, ElectronJS and Discord. 
+77. [Sambhav Jain](https://github.com/sambhav2612): Open-Source Enthusiast, Full-time C++ Advocate, Web Localizer for Mozilla, ElectronJS and Discord. Translated 24 Pull Requests [dot] com to hindi.

@@ -1,4 +1,4 @@
-## Contributors List
+﻿## Contributors List
 
 1. Someone who will win this position
 2. [Jessica Palero](https://github.com/JessiPal) : Research graduate at Humboldt University of Berlin : @JessiPal
@@ -76,3 +76,4 @@
 74. [Anurag Tiwari](https://github.com/t2013anurag): Web Developer | Hacker at HackerRank | Machine Learning | Full Stack Developer
 75. [Wilson Wen](https://github.com/wilsonwen): Developer | Infrastructure Software Engineer | Big Data | Shenzhen, China
 76. [Michele Riva](http://miiit.ch): Software Engineer @MicheleRiva95
+77. [Sai Kaushik](https://github.com/IceDune): Web Developer | Student | Gamer | Hyderabad, India

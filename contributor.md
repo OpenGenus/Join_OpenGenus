@@ -76,3 +76,4 @@
 74. [Anurag Tiwari](https://github.com/t2013anurag): Web Developer | Hacker at HackerRank | Machine Learning | Full Stack Developer
 75. [Wilson Wen](https://github.com/wilsonwen): Developer | Infrastructure Software Engineer | Big Data | Shenzhen, China
 76. [Michele Riva](http://miiit.ch): Software Engineer @MicheleRiva95
+76. [Akashdeep Jassal](http://github.com/akashdeepjassal): Web Developer | Data science student | Machine Learning | high Performane Compute(HPC) |

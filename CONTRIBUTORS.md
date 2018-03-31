@@ -53,7 +53,7 @@
 51. [Chris Sullivan](https://github.com/codemastermd): CS Undergrad at the University of Maryland | Machine Learning and Artificial Intelligence : @codemastermd
 52. [Vaibhav Kumar](https://github.com/Vaibhav1671998): CS Undergrad at Chitkara University , Rajpura , Punjab , India | Front End Web Developer and A Machine Learning enthusiastic : @Vaibhav1671998
 53. [Ravi Jain](https://github.com/engrravijain): Chitkara University, India | <-- Web-Developer -- ML and AI -- Python -- Automate --> : @engrravijain
-54. [Arnav Borborah](https://github.com/arnavb): Just a student programmer who loves C++! : @arnavb
+54. [Arnav Borborah](https://github.com/arnavb): Just a high school student programmer who loves C++, Electronics, and Programming in general : @arnavb
 55. [Rohit Gupta](https://github.com/guptarohit): Working Software Engineer, a Pythonista! 🐍 : @guptarohit
 56. [Austin Grant](https://github.com/cooler9711): A student who likes taking over domains : @cooler9711
 57. [Guilherme Lucas](https://github.com/Guilhermeslucas): Developer and Computer Engineering student from Brazil | Interested in Cloud, AI and HPC : @guilhermeslcs
@@ -76,4 +76,6 @@
 74. [Anurag Tiwari](https://github.com/t2013anurag): Web Developer | Hacker at HackerRank | Machine Learning | Full Stack Developer
 75. [Wilson Wen](https://github.com/wilsonwen): Developer | Infrastructure Software Engineer | Big Data | Shenzhen, China
 76. [Michele Riva](http://miiit.ch): Software Engineer @MicheleRiva95
-77. [Nilesh Gulia](https://github.com/nileshgulia1) : student @ SMVDU CSE 2nd year |mostly web stuffs|javascript react|UX |VR\AR
+77. [Jaspreet Singh](https://github.com/iamjaspreetsingh): Android, Java, C++ | ECE student BVCOE, Delhi @iamjaspreetsingh
+78. [Garvit Kothari](https://github.com/Garvit-k) : Student | Software Engineering undergrad.
+79. [Nilesh Gulia](https://github.com/nileshgulia1) : student @ SMVDU CSE 2nd year |mostly web stuffs|javascript react|UX |VR\AR

@@ -53,7 +53,7 @@
 51. [Chris Sullivan](https://github.com/codemastermd): CS Undergrad at the University of Maryland | Machine Learning and Artificial Intelligence : @codemastermd
 52. [Vaibhav Kumar](https://github.com/Vaibhav1671998): CS Undergrad at Chitkara University , Rajpura , Punjab , India | Front End Web Developer and A Machine Learning enthusiastic : @Vaibhav1671998
 53. [Ravi Jain](https://github.com/engrravijain): Chitkara University, India | <-- Web-Developer -- ML and AI -- Python -- Automate --> : @engrravijain
-54. [Arnav Borborah](https://github.com/arnavb): Just a student programmer who loves C++! : @arnavb
+54. [Arnav Borborah](https://github.com/arnavb): Just a high school student programmer who loves C++, Electronics, and Programming in general : @arnavb
 55. [Rohit Gupta](https://github.com/guptarohit): Working Software Engineer, a Pythonista! 🐍 : @guptarohit
 56. [Austin Grant](https://github.com/cooler9711): A student who likes taking over domains : @cooler9711
 57. [Guilherme Lucas](https://github.com/Guilhermeslucas): Developer and Computer Engineering student from Brazil | Interested in Cloud, AI and HPC : @guilhermeslcs

@@ -77,3 +77,4 @@
 75. [Wilson Wen](https://github.com/wilsonwen): Developer | Infrastructure Software Engineer | Big Data | Shenzhen, China
 76. [Michele Riva](http://miiit.ch): Software Engineer @MicheleRiva95
 77. [Jaspreet Singh](https://github.com/iamjaspreetsingh): Android, Java, C++ | ECE student BVCOE, Delhi @iamjaspreetsingh
+78. [Garvit Kothari](https://github.com/Garvit-k) : Student | Software Engineering undergrad.

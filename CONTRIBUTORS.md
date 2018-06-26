@@ -79,3 +79,4 @@
 77. [Jaspreet Singh](https://github.com/iamjaspreetsingh): Android, Java, C++ | ECE student BVCOE, Delhi @iamjaspreetsingh
 78. [Garvit Kothari](https://github.com/Garvit-k) : Student | Software Engineering undergrad.
 79. [Nilesh Gulia](https://github.com/nileshgulia1) : student @ SMVDU CSE 2nd year |mostly web stuffs|javascript react|UX |VR\AR
+80. [Dhiraj Kumar Jain](https://github.com/TheAlgo): Android Developer | Blockchain Consultant | Machine Learning | Student @ VIT,Vellore

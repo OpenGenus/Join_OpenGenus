@@ -79,3 +79,4 @@
 77. [Jaspreet Singh](https://github.com/iamjaspreetsingh): Android, Java, C++ | ECE student BVCOE, Delhi @iamjaspreetsingh
 78. [Garvit Kothari](https://github.com/Garvit-k) : Student | Software Engineering undergrad.
 79. [Nilesh Gulia](https://github.com/nileshgulia1) : student @ SMVDU CSE 2nd year |mostly web stuffs|javascript react|UX |VR\AR
+80. [Marc Isaac](https://github.com/phoenx34) : Student @ Iowa State University 3rd year | AI, Machine Learning| Java, C/C++, Python, etc

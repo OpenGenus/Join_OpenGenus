@@ -80,4 +80,3 @@
 78. [Garvit Kothari](https://github.com/Garvit-k) : Student | Software Engineering undergrad.
 79. [Nilesh Gulia](https://github.com/nileshgulia1) : student @ SMVDU CSE 2nd year |mostly web stuffs|javascript react|UX |VR\AR
 80. [Nidhi Kumari](https://github.com/NidhiKJha) : student | IOT enthusiast | Web developer
-81. [Martin Fink](https://github.com/martin-fink) : B.Sc. Student @ Technical University Munich | Rust | Hackathons

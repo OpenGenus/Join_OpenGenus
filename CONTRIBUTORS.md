@@ -81,3 +81,4 @@
 79. [Nilesh Gulia](https://github.com/nileshgulia1) : student @ SMVDU CSE 2nd year |mostly web stuffs|javascript react|UX |VR\AR
 80. [Nidhi Kumari](https://github.com/NidhiKJha) : student | IOT enthusiast | Web developer
 81. [Martin Fink](https://github.com/martin-fink) : B.Sc. Student @ Technical University Munich | Rust | Hackathons
+82. [Anton de Regt](https://github.com/antonderegt) : B.Sc. Graduate @ Technical University Windesheim | C | Hackathons

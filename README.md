@@ -20,9 +20,9 @@ We’re starting with a small, but growing, group of contributors to ensure a go
 
 One possible way is to tell us through an issue [here](https://github.com/OpenGenus/Join_OpenGenus/issues/new). _Contributing to one of our missions is the best way to express your interest_. You may, also, email us or get in touch at Slack. The list is endless. :rocket: 
 
-# Contact
+# Contact Us
 
-One can get in touch with us by opening an issue, sending us an [email](mailto:team@opengenus.org), joining our [Slack workspace](https://github.com/OpenGenus/OpenGenus-Slack) or discussing on our [Discourse forum](https://discourse.opengenus.org)
+One can get in touch with us by opening an issue, sending us an [email](mailto:team@opengenus.org), joining our [Slack workspace](https://github.com/OpenGenus/OpenGenus-Slack) or discussing on our own [Discourse forum](https://discourse.opengenus.org)
 
 # Guidelines
 
@@ -30,7 +30,7 @@ The only restriction we impose is that your action or words must not hurt others
 
 We are working on a lot of stuff and we will help you to find an appropriate place in one or some of them. You can start working on your idea as well under our initiative and other members will join and help you. Best of luck in improving the world.
 
-## We are looking forward towards enjoying with you. :wine_glass: :cake: :dancer: 
+## We are looking forward to enjoying with you. :wine_glass: :cake: :dancer: 
 
-> We can do it and we will do it. 
+> Together, we can do it and we will do it. 
 

@@ -81,3 +81,4 @@
 79. [Nilesh Gulia](https://github.com/nileshgulia1) : student @ SMVDU CSE 2nd year |mostly web stuffs|javascript react|UX |VR\AR
 80. [Nidhi Kumari](https://github.com/NidhiKJha) : student | IOT enthusiast | Web developer
 81. [Martin Fink](https://github.com/martin-fink) : B.Sc. Student @ Technical University Munich | Rust | Hackathons
+82. [Vaishnavi Nigam](https://github.com/VaishnaviNigam25) :B.Tech student | 5 * hakerrank| 2 * Codechef| web dev entusiast | girslscrip outreach scolar | Graphic designer

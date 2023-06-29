@@ -81,3 +81,4 @@
 79. [Nilesh Gulia](https://github.com/nileshgulia1) : student @ SMVDU CSE 2nd year |mostly web stuffs|javascript react|UX |VR\AR
 80. [Nidhi Kumari](https://github.com/NidhiKJha) : student | IOT enthusiast | Web developer
 81. [Martin Fink](https://github.com/martin-fink) : B.Sc. Student @ Technical University Munich | Rust | Hackathons
+83. [Shobhit Singh](https://github.com/Shobhitsingh-2503) : Undergrad at IIT (ISM) Dhanbad | Competitive Programmer | C++ | JavaScript | ReactJs | CSS | HTML5 | Web Developer: @Shobhitsingh-2503

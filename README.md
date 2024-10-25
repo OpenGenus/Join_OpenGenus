@@ -7,7 +7,7 @@ Our sole mission is to help you recognize your potential :muscle:  and purpose :
 Some of our core beliefs are:
 * Enable people to work offline for a longer stretch of time
 * To create a safe space for free exchange of ideas
-* Reduce the time spend on searching and increase the time spend on learning, discussing and socializing
+* Reduce the time spent on searching and increase the time spent on learning, discussing and socializing
 * Revolutionize the way people interact with code
 * Help people to reach their full potential
 * To create a community where everyone can contribute irrespective of any factor
@@ -30,7 +30,7 @@ The only restriction we impose is that your action or words must not hurt others
 
 We are working on a lot of stuff and we will help you to find an appropriate place in one or some of them. You can start working on your idea as well under our initiative and other members will join and help you. Best of luck in improving the world.
 
-## We are looking forward towards enjoying with you. :wine_glass: :cake: :dancer: 
+## We are looking forward to working with you. :wine_glass: :cake: :dancer: 
 
 > We can do it and we will do it. 
 
